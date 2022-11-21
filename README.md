@@ -1,4 +1,4 @@
-# Katherine-Lantto-Protfolio
+# Katherine-Lantto-Portfolio
 Professional Portfolio
 
 This portfolio is being created with my professional development and growth in mind. My new and old work will appear here for employers to view my work and I will continue to update and alter the webpage in order to showcase my new and growing array of skills.
